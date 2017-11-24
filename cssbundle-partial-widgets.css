@@ -207,8 +207,8 @@ table.section-columns td.first.columns-cell {
     color: #444;
     cursor: default;
     display: inline-block;
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorStr=&#39;#f5f5f5&#39;, EndColorStr=&#39;#f1f1f1&#39;);
-    font-family: &#39;Arial&#39;, &#39;Helvetica&#39;, sans-serif;
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorStr='#f5f5f5', EndColorStr='#f1f1f1');
+    font-family: 'Arial', 'Helvetica', sans-serif;
     font-size: .598em;
     font-weight: bold;
     height: 24px;
@@ -226,7 +226,7 @@ table.section-columns td.first.columns-cell {
     border: .054em solid #c6c6c6;
     box-shadow: 0 .054em .054em rgba(0, 0, 0, .1);
     color: #222;
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorStr=&#39;#f8f8f8&#39;, EndColorStr=&#39;#f1f1f1&#39;);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorStr='#f8f8f8', EndColorStr='#f1f1f1');
     transition: all 0
 }
 .contact-form-button.focus,
@@ -254,14 +254,14 @@ table.section-columns td.first.columns-cell {
     background-image: linear-gradient(top, #777, #555);
     border: .054em solid #505050;
     color: #fff;
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorStr=&#39;#777&#39;, EndColorStr=&#39;#555&#39;)
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorStr='#777', EndColorStr='#555')
 }
 .contact-form-button-submit:hover {
     background-color: #555;
     background-image: linear-gradient(top, #666, #444);
     border: .054em solid #404040;
     color: #fff;
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorStr=&#39;#666&#39;, EndColorStr=&#39;#444&#39;)
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorStr='#666', EndColorStr='#444')
 }
 .contact-form-button-submit:active,
 .contact-form-button-submit:focus:active,
@@ -272,13 +272,13 @@ table.section-columns td.first.columns-cell {
     background-color: #4d90fe;
     background-image: linear-gradient(top, #4d90fe, #4787ed);
     border-color: #3079ed;
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorStr=&#39;#4d90fe&#39;, EndColorStr=&#39;#4787ed&#39;)
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorStr='#4d90fe', EndColorStr='#4787ed')
 }
 .contact-form-button-submit:hover {
     background-color: #357ae8;
     background-image: linear-gradient(top, #4d90fe, #357ae8);
     border-color: #2f5bb7;
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorStr=&#39;#4d90fe&#39;, EndColorStr=&#39;#357ae8&#39;)
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorStr='#4d90fe', EndColorStr='#357ae8')
 }
 .contact-form-button.disabled,
 .contact-form-button.disabled:hover,
@@ -293,7 +293,7 @@ table.section-columns td.first.columns-cell {
 .contact-form-button-submit.disabled,
 .contact-form-button-submit.disabled:hover,
 .contact-form-button-submit.disabled:active {
-    -ms-filter: &#39;alpha(opacity=50)&#39;background-color: #666;
+    -ms-filter: 'alpha(opacity=50)'background-color: #666;
     border: .054em solid #505050;
     color: #fff;
     filter: alpha(opacity=50);
@@ -565,7 +565,7 @@ a.next-page-link {
 .container:after,
 .float-container:after {
     clear: both;
-    content: &#39;&#39;;
+    content: '';
 	display: table;
 }
 .clearboth {
@@ -689,8 +689,8 @@ input::-ms-clear {
     background-color: rgba(128, 128, 128, .1);
     outline: 0
 }
-.share-buttons li svg[class^=&#39;sharing-&#39;],
-.share-buttons li svg[class*=&#39;sharing-&#39;] {
+.share-buttons li svg[class^='sharing-'],
+.share-buttons li svg[class*='sharing-'] {
     position: absolute;
     top: .543em
 }
@@ -720,7 +720,7 @@ input::-ms-clear {
     width: 100%
 }
 .slideshow-wrapper:after {
-    content: &#39;&#39;;
+    content: '';
 	display: block;
     margin-top: 100%
 }
@@ -757,7 +757,7 @@ img.gsc-branding-img-noclear {
     color: #fff
 }
 .Stats .digit {
-    background: url(&#39;https://resources.blogblog.com/img/widgets/stats-flipper.png&#39;) no-repeat left!important;
+    background: url('https://resources.blogblog.com/img/widgets/stats-flipper.png') no-repeat left!important;
     border: .054em solid #fff;
     display: inline-block;
     height: 28px;
@@ -819,7 +819,7 @@ div.subscribe {
     width: 144px
 }
 div.subscribe div.top {
-    filter: progid: DXImageTransform.Microsoft.AlphaImageLoader(src=&#39;https://resources.blogblog.com/img/widgets/s_top.png&#39;, sizingMethod=&#39;crop&#39;);
+    filter: progid: DXImageTransform.Microsoft.AlphaImageLoader(src='https://resources.blogblog.com/img/widgets/s_top.png', sizingMethod='crop');
     font-size: 1em;
     padding: .217em 0 .054em;
     width: 144px
@@ -839,7 +839,7 @@ div.subscribe div.top span.inner {
     display: inline
 }
 div.subscribe div.bottom {
-    filter: progid: DXImageTransform.Microsoft.AlphaImageLoader(src=&#39;https://resources.blogblog.com/img/widgets/s_bottom.png&#39;, sizingMethod=&#39;crop&#39;);
+    filter: progid: DXImageTransform.Microsoft.AlphaImageLoader(src='https://resources.blogblog.com/img/widgets/s_bottom.png', sizingMethod='crop');
     font-size: .163em;
     height: 3px;
     line-height: 0
@@ -969,7 +969,7 @@ a.feed-reader-link {
     background: url(https://resources.blogblog.com/img/triangle_ltr.gif) no-repeat left center
 }
 .expanded-backlink .backlink-toggle-zippy {
-    background-image: url(&#39;https://resources.blogblog.com/img/triangle_open.gif&#39;)
+    background-image: url('https://resources.blogblog.com/img/triangle_open.gif')
 }
 .collapsed-backlink .collapseable {
     display: none
@@ -996,19 +996,19 @@ a.feed-reader-link {
 #comments .blogger-comment-icon,
 .blogger-comment-icon {
     line-height: 16px;
-    background: url(&#39;https://resources.blogblog.com/img/b16-rounded.gif&#39;) left no-repeat;
+    background: url('https://resources.blogblog.com/img/b16-rounded.gif') left no-repeat;
     padding-left: 1.087em
 }
 #comments .openid-comment-icon,
 .openid-comment-icon {
     line-height: 16px;
-    background: url(&#39;https://resources.blogblog.com/img/openid16-rounded.gif&#39;) left no-repeat;
+    background: url('https://resources.blogblog.com/img/openid16-rounded.gif') left no-repeat;
     padding-left: 1.087em
 }
 #comments .anon-comment-icon,
 .anon-comment-icon {
     line-height: 16px;
-    background: url(&#39;https://resources.blogblog.com/img/anon16-rounded.gif&#39;) left no-repeat;
+    background: url('https://resources.blogblog.com/img/anon16-rounded.gif') left no-repeat;
     padding-left: 1.087em
 }
 .comment-form {
@@ -1179,10 +1179,10 @@ iframe.avatar-hovercard-iframe {
     width: 7px
 }
 .comments .thread-expanded .thread-arrow {
-    background: url(&#39;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAAG0lEQVR42mNgwAfKy8v/48I4FeA0AacVDFQBAP9wJkE/KhUMAAAAAElFTkSuQmCC&#39;) no-repeat scroll 0 0 transparent
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAAG0lEQVR42mNgwAfKy8v/48I4FeA0AacVDFQBAP9wJkE/KhUMAAAAAElFTkSuQmCC') no-repeat scroll 0 0 transparent
 }
 .comments .thread-collapsed .thread-arrow {
-    background: url(&#39;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAAJUlEQVR42mNgAILy8vL/DLgASBKnApgkVgXIkhgKiNKJ005s4gDLbCZBiSxfygAAAABJRU5ErkJggg==&#39;) no-repeat scroll 0 0 transparent
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAAJUlEQVR42mNgAILy8vL/DLgASBKnApgkVgXIkhgKiNKJ005s4gDLbCZBiSxfygAAAABJRU5ErkJggg==') no-repeat scroll 0 0 transparent
 }
 .comments .avatar-image-container {
     float: left;
@@ -1220,7 +1220,7 @@ td.tr-caption {
     margin-top: .163em
 }
 .delete-comment-icon {
-    background: url(&#39;https://resources.blogblog.com/img/icon_delete13.gif&#39;) no-repeat left;
+    background: url('https://resources.blogblog.com/img/icon_delete13.gif') no-repeat left;
     padding: .380em
 }
 #comment-popup {
@@ -1237,7 +1237,7 @@ td.tr-caption {
 .share-button {
     width: 20px;
     height: 20px;
-    background: url(&#39;https://resources.blogblog.com/img/share_buttons_20_3.png&#39;) no-repeat left!important;
+    background: url('https://resources.blogblog.com/img/share_buttons_20_3.png') no-repeat left!important;
     overflow: hidden;
     margin-left: -0.054em;
     position: relative
@@ -1304,7 +1304,7 @@ a:active.sb-pinterest {
     background-position: -5.435em -2.174em!important
 }
 .sb-google {
-    background: url(&#39;https://resources.blogblog.com/img/plusone/plusonepreview.png&#39;) no-repeat;
+    background: url('https://resources.blogblog.com/img/plusone/plusonepreview.png') no-repeat;
     height: 20px;
     vertical-align: top;
     width: 82px
