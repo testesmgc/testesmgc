@@ -720,7 +720,7 @@ input::-ms-clear {
     width: 100%
 }
 .slideshow-wrapper:after {
-    content: &#39;&#39;;
+    content: '';
 	display: block;
     margin-top: 100%
 }
@@ -974,41 +974,6 @@ a.feed-reader-link {
 .collapsed-backlink .collapseable {
     display: none
 }
-.status-msg-wrap {
-    font: normal normal 1em &#39;PT Sans&#39;, sans-serif;
-    width: 90%;
-    margin: .543em auto;
-    position: relative
-}
-.status-msg-border {
-    border: .054em solid #000;
-    filter: alpha(opacity=40);
-    opacity: .4;
-    width: 100%;
-    position: relative
-}
-.status-msg-bg {
-    background-color: #ccc;
-    opacity: .8;
-    width: 100%;
-    position: relative;
-    z-index: 1
-}
-.status-msg-body {
-    text-align: center;
-    padding: .3em 0;
-    width: 100%;
-    position: absolute;
-    z-index: 4
-}
-.status-msg-hidden {
-    visibility: hidden;
-    padding: .3em 0
-}
-.status-msg-wrap a {
-    padding-left: .4em;
-    text-decoration: underline
-}
 .reactions-label {
     margin: .163em 0 0 0
 }
@@ -1031,19 +996,19 @@ a.feed-reader-link {
 #comments .blogger-comment-icon,
 .blogger-comment-icon {
     line-height: 16px;
-    background: url(&#39;https://resources.blogblog.com/img/b16-rounded.gif&#39;) left no-repeat;
+    background: url('https://resources.blogblog.com/img/b16-rounded.gif') left no-repeat;
     padding-left: 1.087em
 }
 #comments .openid-comment-icon,
 .openid-comment-icon {
     line-height: 16px;
-    background: url(&#39;https://resources.blogblog.com/img/openid16-rounded.gif&#39;) left no-repeat;
+    background: url('https://resources.blogblog.com/img/openid16-rounded.gif') left no-repeat;
     padding-left: 1.087em
 }
 #comments .anon-comment-icon,
 .anon-comment-icon {
     line-height: 16px;
-    background: url(&#39;https://resources.blogblog.com/img/anon16-rounded.gif&#39;) left no-repeat;
+    background: url('https://resources.blogblog.com/img/anon16-rounded.gif') left no-repeat;
     padding-left: 1.087em
 }
 .comment-form {
@@ -1272,7 +1237,7 @@ td.tr-caption {
 .share-button {
     width: 20px;
     height: 20px;
-    background: url(&#39;https://resources.blogblog.com/img/share_buttons_20_3.png&#39;) no-repeat left!important;
+    background: url('https://resources.blogblog.com/img/share_buttons_20_3.png') no-repeat left!important;
     overflow: hidden;
     margin-left: -0.054em;
     position: relative
@@ -1339,7 +1304,7 @@ a:active.sb-pinterest {
     background-position: -5.435em -2.174em!important
 }
 .sb-google {
-    background: url(&#39;https://resources.blogblog.com/img/plusone/plusonepreview.png&#39;) no-repeat;
+    background: url('https://resources.blogblog.com/img/plusone/plusonepreview.png') no-repeat;
     height: 20px;
     vertical-align: top;
     width: 82px
