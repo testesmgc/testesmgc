@@ -30,11 +30,14 @@
    </url>
    <url>
       <loc>https://www.matheusgcarlos.com/p/formacao-fotografo-profissional.html</loc>
+	  <changefreq>monthly</changefreq>
    </url>
    <url>
       <loc>https://www.matheusgcarlos.com/p/preco-trabalho-fotografo-profissional.html</loc>
+	  <changefreq>monthly</changefreq>
    </url>
    <url>
       <loc>https://www.matheusgcarlos.com/p/licenca-fotografia-licenciamento-obra.html</loc>
+	  <changefreq>monthly</changefreq>
    </url>
 </urlset>
