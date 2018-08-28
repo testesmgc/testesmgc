@@ -8,6 +8,10 @@
       <loc>https://www.matheusgcarlos.com/p/fotografia-corporativa.html</loc>
       <changefreq>monthly</changefreq>
    </url>
+      <url>
+      <loc>https://www.matheusgcarlos.com/p/fotografia-de-imoveis-interiores.html</loc>
+      <changefreq>monthly</changefreq>
+   </url>
    <url>
       <loc>https://www.matheusgcarlos.com/p/fotografia-de-joias.html</loc>
       <changefreq>monthly</changefreq>
@@ -20,6 +24,10 @@
       <loc>https://www.matheusgcarlos.com/p/fotografia-de-produtos.html</loc>
       <changefreq>monthly</changefreq>
    </url>
+      <url>
+      <loc>https://www.matheusgcarlos.com/p/fotografia-retratos.html?m=1</loc>
+      <changefreq>monthly</changefreq>
+   </url>
    <url>
       <loc>https://www.matheusgcarlos.com/p/contato.html</loc>
       <changefreq>monthly</changefreq>
@@ -30,14 +38,11 @@
    </url>
    <url>
       <loc>https://www.matheusgcarlos.com/p/formacao-fotografo-profissional.html</loc>
-	  <changefreq>monthly</changefreq>
    </url>
    <url>
       <loc>https://www.matheusgcarlos.com/p/preco-trabalho-fotografo-profissional.html</loc>
-	  <changefreq>monthly</changefreq>
    </url>
    <url>
       <loc>https://www.matheusgcarlos.com/p/licenca-fotografia-licenciamento-obra.html</loc>
-	  <changefreq>monthly</changefreq>
    </url>
 </urlset>
